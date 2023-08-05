@@ -1,0 +1,1 @@
+Now, when you open the integrated terminal in VS Code, it should use Git Bash as the default terminal. If you encounter any issues, make sure the path you specified in the settings is 
